@@ -7,3 +7,8 @@
 lmao
 
 ![Image of a Microwave](https://giffiles.alphacoders.com/767/76753.gif)
+
+`print("hello world")`
+
+
+```print("hello world")```
